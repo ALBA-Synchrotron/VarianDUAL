@@ -3,9 +3,9 @@ This device server is part of the ALBA Vacuum suite and requires VacuumControlle
 
 Modules can be obtained from:
 
-  https://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Vacuum/VacuumController
+  https://github.com/alba-synchrotron/vacuumcontroller
 
-  https://svn.code.sf.net/p/tango-cs/code/share/fandango
+  https://github.com/tango-controls/fandango
 
 
 For more information check the VacuumController/CHANGES and README.txt files

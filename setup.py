@@ -57,7 +57,7 @@ package_data = {'': [
 
 ## Launcher scripts
 scripts = [
-  DS,
+  # DS,
   #'./bin/'+DS,
   ]
 
